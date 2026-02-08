@@ -29,7 +29,7 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/adhn5v.jpg",
 // add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "ANAYAT-AI",
 // add bot namw here for menu
@@ -41,7 +41,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923452401207",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50931772070",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "𝙰𝙽𝙰𝚈𝙰𝚃 𝙷𝙰𝙲𝙺𝙴𝚁",
 // add bot owner name
